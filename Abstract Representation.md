@@ -1,0 +1,1 @@
+The abstract representation level allows for thinking without being concerned about many details depending on the implementation. For example, resolution can be infinite in the abstract space but not in the implementation one.

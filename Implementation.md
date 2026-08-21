@@ -1,0 +1,1 @@
+The implementation level is required for computing but is only an approximation of the perfect abstract representation. It should be manipulated with care as error accumulate with manipulation of the object.
