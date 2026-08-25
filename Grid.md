@@ -1,0 +1,1 @@
+Implementation of a field with a given resolution and spacing, possibly non uniform.
