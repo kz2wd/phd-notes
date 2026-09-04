@@ -1,0 +1,1 @@
+Operation between 2 things defined by the [[space]] containing them
